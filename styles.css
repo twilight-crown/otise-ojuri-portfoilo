@@ -8,6 +8,11 @@ h1 {
 p {
   color: black;
 }
+div{
+  background-color:rgb(255, 255, 255);
+  color:rgb(0, 0, 0);
+  padding:100px;
+}
 
 /*
 filler code till i can sit down and do it myself
